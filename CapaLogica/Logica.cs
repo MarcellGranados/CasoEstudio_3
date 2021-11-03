@@ -8,7 +8,7 @@ namespace CapaLogica
 {
     public class Logica
     {
-
+        // Aqui se hizo un cambio en la rama de funcion 2
         String nombre = "admin";
         String contra = "0000";
         String alerta = "";
