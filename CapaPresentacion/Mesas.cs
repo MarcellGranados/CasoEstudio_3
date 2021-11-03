@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace CapaPresentacion
 {
+    // Aqui se hizo un cambio en la rama de funcion 1
     public partial class Mesas : Form
     {
 
